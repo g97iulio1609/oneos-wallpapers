@@ -9,8 +9,7 @@ license=('LGPLv2+')
 makedepends=('bzr')
 _realver=0.3.1
 provides=("oneos-wallpapers")
-_fileurl=http://infinityos.org/repo/oneosui.tar.gz
-source=bzr+lp:~infinityosproject/infinityosdevelop/oneos-wallpapers
+source=https://github.com/g97iulio1609/oneos-wallpapers
 md5sums=('SKIP')
 
 package() {
