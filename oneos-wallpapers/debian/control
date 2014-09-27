@@ -1,0 +1,15 @@
+Source: infinityos-wallpapers
+Section: admin
+Priority: optional
+Maintainer: Giulio Leone <giulio97.leone@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/infinityos-wallpapers.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/infinityos-wallpapers.git;a=summary
+
+Package: infinityos-wallpapers
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <Infinity OS Wallpapers for Indra>
+ <Infinity OS Wallpapers for Indra>
